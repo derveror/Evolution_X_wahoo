@@ -5,6 +5,9 @@
 > [!Warning]
 > This is custom firmware, which voids the warranty of your device. I am not responsible for any hardware failures, loss of data or explosions. Use at your own risk. Bugs and performance issues may arise compared to previous versions of android.
 
+# Installation Guide
+Before installation read the instructions: [Guide](https://github.com/derveror/Evolution_X_wahoo/releases/tag/A15_20250925)
+
 # Download Link
 
 Get the latest build here: [Releases](https://github.com/derveror/Evolution_X_wahoo/releases)
