@@ -3,9 +3,7 @@
 ![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_3.png?raw=true)
 
 > [!Warning]
-> THIS IS CUSTOM FIRMWARE, WHICH VOIDS THE WARRANTY OF YOUR DEVICE.
-I AM NOT RESPONSIBLE FOR ANY HARDWARE FAILURES, LOSS OF DATA OR EXPLOSIONS. USE AT YOUR OWN RISK.
-BUGS AND PERFORMANCE ISSUES MAY ARISE COMPARED TO PREVIOUS VERSIONS OF ANDROID
+> This is custom firmware, which voids the warranty of your device. I am not responsible for any hardware failures, loss of data or explosions. Use at your own risk. Bugs and performance issues may arise compared to previous versions of android.
 
 # Download Link
 
