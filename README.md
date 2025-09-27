@@ -1,4 +1,4 @@
-# Evolution X Pixel 2 / Pixel 2 XL
+# Evolution X Google Pixel 2 / Pixel 2 XL
 
 ![2okPze5](https://github.com/Evolution-XYZ/XDA/blob/udc/assets/banner_style_3.png?raw=true)
 
